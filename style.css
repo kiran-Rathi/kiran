@@ -1,0 +1,66 @@
+*{
+    font-family: 'Atkinson Hyperlegible', sans-serif;
+    margin:0px;
+    }
+    label{
+      font-size:14px;
+      font-weight:600;
+    }
+    body{
+        background-color:lavender;
+    }
+    *{
+    line-height: 29px;
+    box-sizing: border-box;
+    }
+    .marq{
+      color:black;
+      font-size: large;
+      font-family: 'Times New Roman', Times, serif;
+  }
+  h1{
+    color:black;
+    display: inline;
+    font-size: 40px;
+}
+    h2{
+      padding:20px;
+      text-align: center;
+      color:#000000;
+      
+    }
+    Form{
+      margin-top: 15px;
+      margin-bottom: 15px;
+      display: block;
+      align-self: center; 
+      padding:2em;
+      margin-block-start: 1cm;
+      margin: auto;
+      max-width: 500px;
+      background-color: #eea5a5;
+      border-radius:10px;
+    }
+  
+    .form-control{
+      padding: 4px 16px;
+      width: 100%;
+      border: unset;
+    box-shadow: 0 0 10px #9CA3AF;
+    border-radius:10px;
+    outline-color:thistle;
+    }
+    #button{
+      padding: 4px 16px;
+      width: 100%;
+      margin: 10px 0;
+     font-weight: 600;
+     border: unset;
+    box-shadow: 0 0 10px #9CA3AF;
+    background: linear-gradient(to right,plum, #677bfc);
+    color: #fff;
+    border-radius:10px;
+    }
+  
+  
+      
